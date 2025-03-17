@@ -2,7 +2,7 @@
 
 ## 📌 Video Links
 - **AWS S3**: https://cloudtechcomputing.s3.eu-north-1.amazonaws.com/WIN_20250316_11_44_46_Pro.mp4
-- **Google Cloud Storage (GCS)**: [Insert GCS Link Here]
+- **Google Cloud Storage (GCS)**: 
 - **Azure Blob Storage**: https://cloudtechcomputing33.blob.core.windows.net/myvideo/WIN_20250316_11_44_46_Pro.mp4
 
 
