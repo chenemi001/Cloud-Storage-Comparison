@@ -1,7 +1,10 @@
 # Cloud Storage Comparison: AWS, GCS, and Azure
 
 ## 📌 Video Links
-- **AWS S3**:
+- **AWS S3**: https://cloudtechcomputing.s3.eu-north-1.amazonaws.com/WIN_20250316_11_44_46_Pro.mp4
+- **Google Cloud Storage (GCS)**: [Insert GCS Link Here]
+- **Azure Blob Storage**: [Insert Azure Link Here]
+
 
 
 ---
